@@ -1,2 +1,2 @@
 
-- [MA6628-Project-01](L01s01.ipynb) Project#1
+- [MA6628-Assignment/Project#01.ipynb](L01s01.ipynb) Project#1
