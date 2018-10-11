@@ -3,6 +3,7 @@
 
 Assignments are presented as follows:
 
-- [project#01](project#01.ipynb) Oct.03,2018 
+- [project#01](https://github.com/pinhuang0317/MA6628-Assignment/blob/master/Project%2301.ipynb) Python. 
+- [project#02](project#02.ipynb) Python. 
+- [project#04](project#04.ipynb) Python. 
 
-- [MA6628-Assignment/Project#01.ipynb](L01s01.ipynb) Project#1
